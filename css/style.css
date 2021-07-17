@@ -63,7 +63,7 @@ body {
 .img-section {
     grid-area: img;
     min-height: 400px;
-    background: url("../img/taco.jpg");
+    background: url("../img/taco\ \(1\).jpg");
     background-size: cover;
     background-position: bottom right;
     padding: 40px;
