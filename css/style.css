@@ -10,7 +10,7 @@
 }
 
 body {
-    background-image: url("./img/topography.svg"), linear-gradient(110deg, #f93d66, #6d47d9);
+    background-image: url("img/topography.svg"), linear-gradient(110deg, #f93d66, #6d47d9);
     background-size: 340px, auto;
     min-height: calc(100vh - 100px);
     margin: 50px;
@@ -63,7 +63,7 @@ body {
 .img-section {
     grid-area: img;
     min-height: 400px;
-    background: url("./img/taco.jpg");
+    background: url("img/taco.jpg");
     background-size: cover;
     background-position: bottom right;
     padding: 40px;
